@@ -1,0 +1,24 @@
+{
+  "name": "docker-basics",
+  "version": "0.0.1",
+  "description": "What is Docker? Making a Dockerfile for a node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miclgael/Docker-Basics.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miclgael/Docker-Basics/issues"
+  },
+  "homepage": "https://github.com/miclgael/Docker-Basics#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0"
+  }
+}
